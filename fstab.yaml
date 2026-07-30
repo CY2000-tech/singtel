@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p89407-e1144955.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-block-collection-xwalk/main"
+    url: "https://author-p89407-e1144955.adobeaemcloud.com/bin/franklin.delivery/CY2000-tech/singtel/main"
     type: "markup"
     suffix: ".html"
